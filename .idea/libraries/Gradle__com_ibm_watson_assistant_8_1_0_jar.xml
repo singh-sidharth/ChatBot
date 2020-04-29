@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.watson:assistant:8.1.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson/assistant/8.1.0/d9407675ffc8a1e4c3efe2f1c8b2dee68cae0b42/assistant-8.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson/assistant/8.1.0/50ab132b6517804bdc47ef0e377e2641570f7799/assistant-8.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson/assistant/8.1.0/1ce268c4a5e49e90e347ede1af3236a36c99ad6f/assistant-8.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
